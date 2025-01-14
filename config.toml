@@ -119,10 +119,6 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/chris-prosser-4a3874305/"
   [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://orcid.org/0000-0002-2992-8190"
-  [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fas"
       url       = "/contact/"
