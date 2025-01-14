@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Christopher Prosser</title>
+    <link>http://localhost:4321/teaching/</link>
+    <description>Recent content in Teaching on Christopher Prosser</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced Quantitative Methods</title>
+      <link>http://localhost:4321/teaching/methods/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/teaching/methods/</guid>
+      <description>&lt;p&gt;This is a postgraduate module covering the basics of research design and research methods through state of the art scholarship. We cover a range of statistical methods, from descriptive statistics and multivariate regression analysis, to experimental and observational methods for making causal inferences. The module emphasises conceptual understanding and clear thinking over mathematical and technical issues, and does not assume any prior knowledge of maths or statistics. Through the computer labs and assignments, students gain not only a theoretical but also a practical understanding of quantitative methods and coding using the &lt;code&gt;R&lt;/code&gt; language and &lt;code&gt;tidyverse&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Political psychology</title>
+      <link>http://localhost:4321/teaching/polpsych/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/teaching/polpsych/</guid>
+      <description>&lt;p&gt;This is a postgraduate module introducing students to the field of political psychology &amp;ndash; an interdisciplinary approach to the study of politics that sits at the intersection of political science and psychology.&#xA;Political psychologists tackle many important questions that cover a wide range of political subjects, such as:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Are political preferences innate?&lt;/li&gt;&#xA;&lt;li&gt;Why are some people liberal whilst others are conservative?&lt;/li&gt;&#xA;&lt;li&gt;Why do people respond to the same political news in different ways?&lt;/li&gt;&#xA;&lt;li&gt;Why do political partisans hate each other?&lt;/li&gt;&#xA;&lt;li&gt;Are racism and discrimination inevitable?&lt;/li&gt;&#xA;&lt;li&gt;Why do people engage in political violence?&lt;/li&gt;&#xA;&lt;li&gt;Are political leaders normal people?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We examine answers to these questions that draw on a wide range of theoretical and empirical approaches, from genetic inheritance and physiological predisposition, to the influence of social groups and motivated reasoning.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Democracy in Britain</title>
+      <link>http://localhost:4321/teaching/deminbrit/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/teaching/deminbrit/</guid>
+      <description>&lt;p&gt;This is a second-year undergraduate module that I co-convene with Nick&#xA;Allen. My half of the course focuses on elections in one way or another&#xA;&amp;ndash; from the expansion of the franchise and the development of the&#xA;British party system, to political participation and voting behaviour.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Week 1: Democratisation and the expansion of the franchise&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;This week will look at the chronology of what happened when with regard&#xA;to the democratization of Britain and evaluate competing theories that&#xA;try to explain why Britain democratized.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

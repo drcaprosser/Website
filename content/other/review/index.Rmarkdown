@@ -1,0 +1,167 @@
+---
+title: "Peer review"
+subtitle: ""
+excerpt: "Peer review for academic journals, book publishers, and funding bodies"
+date: 2025-01-04
+author: "Christopher Prosser"
+draft: false
+tags:
+categories:
+layout: single
+links:
+---
+
+```{r setup, include=FALSE, cache = FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+
+# set transparent background in base
+# knitr::opts_chunk$set(dev.args=list(bg='transparent'))
+
+```
+
+
+```{r}
+
+library(tidyverse)
+library(readxl)
+library(ggrepel)
+
+reviews <- read_excel("C:/Dropbox/Reviews/Reviews.xlsx")
+
+
+reviews <- reviews %>% 
+  mutate(ones = 1) 
+
+n_reviews <- sum(reviews$ones)
+
+n_journals <- reviews %>% 
+  distinct(Journal) %>% 
+  mutate(ones = 1) %>%
+  pull() %>% 
+  sum()
+
+
+funding_reviews <- read_excel("C:/Dropbox/Reviews/Reviews.xlsx", sheet = "funding reviews")
+
+
+n_funders <- funding_reviews %>% 
+  distinct(Funder) %>% 
+  mutate(ones = 1) %>% 
+  pull(ones) %>% 
+  sum()
+
+n_funding <- funding_reviews %>% 
+  mutate(ones = 1) %>% 
+  pull(ones) %>% 
+  sum()
+
+publisher_reviews <- read_excel("C:/Dropbox/Reviews/Reviews.xlsx", sheet = "publisher reviews")
+
+n_publishers <- publisher_reviews %>% 
+  distinct(publisher) %>% 
+  mutate(ones = 1) %>% 
+  pull(ones) %>% 
+  sum()
+
+
+n_books <- publisher_reviews %>% 
+  mutate(ones = 1) %>% 
+  pull(ones) %>% 
+  sum()
+
+
+
+n_to_words <- function(n){
+  
+  output <- case_when(n == 1 ~ "one",
+                      n == 2 ~ "two",
+                      n == 3 ~ "three",
+                      n == 4 ~ "four",
+                      n == 5 ~ "five",
+                      n == 6 ~ "six",
+                      n == 7 ~ "seven",
+                      n == 8 ~ "eight",
+                      n == 9 ~ "nine",
+                      n == 10 ~ "ten",
+                      .default = as.character(n))
+  
+  return(output)
+  
+}
+  
+  
+
+overall_mean_reviews <- reviews %>% 
+  summarise(min_date = min(Date), 
+            max_date = max(Date),
+            reviews = sum(ones)) %>% 
+  mutate(years = (max_date - min_date) %>% as.numeric()/365.25,
+         mean = reviews/years) %>% 
+  pull(mean) %>% 
+  round(. , 1)
+  
+
+last_five_years_mean_reviews <- reviews %>%
+  filter(Date > Sys.Date() - years(5)) %>% 
+  summarise(min_date = min(Date), 
+            max_date = max(Date),
+            reviews = sum(ones)) %>% 
+  mutate(years = (max_date - min_date) %>% as.numeric()/365.25,
+         mean = reviews/years)  %>% 
+  pull(mean) %>% 
+  round(. , 1)
+
+
+
+
+```
+
+
+Like many academics, I spend some of my time reviewing submissions for academic journals, publishers, and funding bodies. I also like measuring things and keeping track of them, even if there's no point in doing so.[^1] I think it can be useful to share this sort of information -- no one really knows how much reviewing other people do, which makes it hard to know if you are doing a lot or a little of something. I have no idea if I do more or less reviewing than most people in my field -- I know some who do more, but other who do less. In any case, here is a brief record of the reviews I have done during my career. 
+
+I reviewed my first paper for a journal in 2012, and since then I have reviewed  `r n_reviews` submissions for `r n_journals` different journals. That works out as about `r overall_mean_reviews` reviews per year since I started reviewing, and `r last_five_years_mean_reviews` per year in the last five years.  
+
+[^1]: See also: keeping track of various metrics on my smart watch and my <a href="https://www.vivino.com/users/chris.prosser" target="_blank">700+ wine ratings on Vivino </a>. <br><br>When my eldest daughter was born I kept track of things like feeding, naps, and sleep. Once I had enough data I tried to do some analysis to see what factors led to more sleep. Unfortunately it turns out babies are entirely random processes.
+
+Here's a plot of how many reviews I've done over time:
+
+```{r}
+
+
+reviews %>% 
+  arrange(Date) %>% 
+  mutate(reviews = cumsum(ones)) %>% 
+  ggplot(aes(x = Date, y = reviews)) +
+  geom_line(linewidth = 2, colour = "#40B0A6") +
+  theme_minimal() +
+  xlab(element_blank()) +
+  ylab("Number of journal reviews")
+
+```
+
+And here are the ten journals I've reviewed for the most:
+
+```{r}
+
+reviews %>% 
+  mutate(ones = 1) %>% 
+  group_by(Journal) %>% 
+  summarise(reviews = sum(ones)) %>% 
+  arrange(-reviews) %>% 
+  slice_head(n = 10) %>% 
+  mutate(Journal = fct_reorder(Journal, reviews)) %>% 
+  ggplot(aes(x = reviews, y = Journal)) +
+  geom_col(fill = "#40B0A6") +
+  theme_minimal() +
+  xlab("Reviews") +
+  ylab(element_blank())
+
+
+```
+
+I've also reviewed `r n_to_words(n_books)` book proposals for `r n_to_words(n_publishers)` different publishers, and `r n_to_words(n_funding)` grant proposals for `r n_to_words(n_funders)` different funding bodies. 
+
+I'm almost always happy to review things if they are related to something I know about, so if you're an editor looking for someone to review something, please [get in touch](/contact/) -- especially if you work in publishing and will give me free books in return for a review. I love books.[^2]
+
+[^2]: I worked in a bookshop for five years while I was a student, which has left me with the habit of buying more books than I will ever have time to read, something you will discover for yourself if you ever come to my house or office.<br><br> A couple of years ago I started pointless keeping track of the books I read for pleasure on the Story Graph, so if you want to know what I've been reading lately, <a href="https://app.thestorygraph.com/profile/caprosser" target="_blank">take a look</a>. Also feel free to talk to me about any of the books I've read, I love talking about books.
+

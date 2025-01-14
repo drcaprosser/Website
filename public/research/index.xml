@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research projects on Christopher Prosser</title>
+    <link>http://localhost:4321/research/</link>
+    <description>Recent content in Research projects on Christopher Prosser</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>British Election Study</title>
+      <link>http://localhost:4321/research/bes/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/bes/</guid>
+      <description>&lt;p&gt;The British Election Study (BES) is a long-running academic survey research project funded by the Economic and Social Research Council (ESRC). We track public opinion and voting behaviour in British elections and try to explain changes in party support and electoral alignments. The first surveys in what would become the BES were fielded in the run up to the 1964 General Election by Sir David Butler and Donald Stokes, and a BES survey has been conducted around every general election ever since. You can read more about the BES and get access to all of our data on the &lt;a href=&#34;https://www.britishelectionstudy.com/&#34; target=&#34;_blank&#34;&gt;BES website&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Democracy and Social Change in Britain, 1851-2024</title>
+      <link>http://localhost:4321/research/historicalelections/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/historicalelections/</guid>
+      <description>&lt;p&gt;A few years ago, my Royal Holloway colleague Olli Heath and I started working with two historical geographers, Humphrey Southall and Paula Aucott (who run the &lt;a href=&#34;https://www.visionofbritain.org.uk/&#34; target=&#34;_blank&#34;&gt;vision of Britain through time&lt;/a&gt; website), on a project linking historical census data and election results from the mid-19th century to the present day. In 2024 we were awarded a grant by the Economic and Social Research Council (ESRC) to facilitate this work.&lt;/p&gt;&#xA;&lt;p&gt;The first paper we&amp;rsquo;ve worked on looks at a long running question of interest in British election studies &amp;ndash; the relationship between social class and voting. We find that there is a clear relationship between class and voting before both the mass enfranchisement of 1918 and the emergence of Labour as a political party at the start of the 20th century &amp;ndash; in the late 19th century, working class areas were more Liberal supporting and middle class areas were more Conservative supporting. The early 20th century was a period of rapid change &amp;ndash; even before the split of the Liberal party in the First World War, the class-Liberal relationship was collapsing and Labour was establishing itself the party of the working class. In the mid-1920s, the class-vote relationship becomes firmly established and remains remarkably stable for nearly eight decades, before starting to wane in the 1990s. At the moment, we&amp;rsquo;re updating the paper to include data from the 2024 General Election, but if you&amp;rsquo;d like to read the previous version, please get in touch.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Polling and surveys</title>
+      <link>http://localhost:4321/research/polling/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/polling/</guid>
+      <description>&lt;p&gt;As well as designing and fielding a large number of surveys as part of the BES, I am interested in the use of surveys as a research tool more generally, in particular what drives polling error and how we can make surveys more accurate.&lt;/p&gt;&#xA;&lt;p&gt;My first paper on this topic was an investigation into the 2015 UK polling miss with my BES colleague Jon Mellon. The 2015 polls put the Conservatives and Labour neck-and-neck, but the result, when it came, was a decisive victory for the Conservatives. Jon and I were the first to point the finger at problems to do with the representativeness of polling samples &amp;ndash; a conclusion later echoed by the British Polling Council&amp;rsquo;s inquiry into the polling miss. The problem, Jon and I argue, was not that samples were biased in favour of one party per se, but rather they over-sampled people who were politically engaged.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Electoral registration and voter ID</title>
+      <link>http://localhost:4321/research/voterreg/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/voterreg/</guid>
+      <description>&lt;p&gt;From 2015-19 I worked on a sub-project of the British Election Study in collaboration with the &lt;em&gt;Electoral Commission&lt;/em&gt; that looked at the impact the introduction of Individual Electoral Registration (IER) had on voter registration in Great Britain. In the run-up to IER there was a lot of concern that many people would be knocked off the electoral register &amp;ndash; particularly young people, non-English speakers, and those who live in institutional settings such as student halls. Our research shows that whether that happened depends on when we are talking about. If we look registration &lt;em&gt;at the time of a general election&lt;/em&gt; then there is little evidence to suggest IER had a negative impact on registered. However, &lt;em&gt;between&lt;/em&gt; elections quite a few people &amp;ndash; particularly those who move houses &amp;ndash; do drop off the electoral register. These contradictory patterns can be reconciled by the fact that those who drop off the register between elections often remember to register themselves again when an election is called.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Political psychology</title>
+      <link>http://localhost:4321/research/polpsych/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/polpsych/</guid>
+      <description>&lt;p&gt;As someone who studied psychology as an undergrad, psychological approaches to understanding political behaviour underpin much of my wider work &amp;ndash; in &lt;em&gt;Electoral Shocks&lt;/em&gt;, for example, we look at the way in which the two sides of the EU referendum crystalised into Remain and Leave social identities. But I have also carried out research that is more explicitly concerned with political psychology.&lt;/p&gt;&#xA;&lt;p&gt;In one project, together with Jon Mellon, I look at the relationship between authoritarian disposition and attitudes towards redistributive policy preferences. Previous scholarship has argued that authoritarianism and economic policy preferences are unrelated, and indeed they appear to be largely uncorrelated. We argue, however, that this lack of correlation appears because authoritarianism has different effects depending on where you sit on the socio-economic spectrum. Authoritarians &amp;ndash; as the standard account says &amp;ndash; don&amp;rsquo;t like threats. If you are a rich authoritarian, redistribution is threatening. If you are a poor authoritarian, the &lt;em&gt;lack&lt;/em&gt; of redistribution is threatening.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quantitative methods</title>
+      <link>http://localhost:4321/research/quant/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/quant/</guid>
+      <description>&lt;p&gt;I am something of an accidental methodologist &amp;ndash; I am generally more interested in substantive questions than research methods per se. Sometimes in the course of trying to answer those questions I end up delving into methodological issues. Perhaps because of this, a lot of my methodological research lives, slightly unloved, in the appendices of various other papers. For example, in the appendix to my paper about&lt;a href=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0261379420300159-mmc1.pdf&#34; target=&#34;_blank&#34;&gt; age and turnout&lt;/a&gt; I show that weighting to aggregate population targets (e.g. overall levels of turnout) also improves subgroup estimates of that outcome. And in the appendix to my paper about&lt;a href=&#34;https://journals.sagepub.com/doi/10.1177/00323217211027419#supplementary-materials&#34; target=&#34;_blank&#34;&gt; promissory representation&lt;/a&gt;, Jon and I came up with a novel method for analysing conjoint experiments using Bayesian multiple membership multiple classification (MMMC) models, which we further complicate by adding a finite mixture component.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>European integration and electoral politics</title>
+      <link>http://localhost:4321/research/eudemocracy/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/eudemocracy/</guid>
+      <description>&lt;p&gt;Before I joined the British Election Study, I started my academic life as a comparativist. My graduate research looked at the comparative electoral politics of European integration. Most of this research ended up being published in a series of journal articles.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;p&gt;My first paper about the politics of European integration, which was a condensed version of my master&amp;rsquo;s thesis, looked at the reasons EU member states call referendums on the EU.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; I argue that they do so primarily as a result of domestic political pressure arising from three sources: electoral pressure when the EU is unpopular and elections are close, rules governing the use of referendums, and domestic institutional veto players. I argue in the paper that this helps explain why referendums on the EU frequently fail &amp;ndash; they are often held precisely because of the circumstances that make it difficult to rally support in favour of European integration.&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; You can read the paper &lt;a href=&#34;https://doi.org/10.1111/1467-9248.12176&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Other things</title>
+      <link>http://localhost:4321/research/other/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/other/</guid>
+      <description>&lt;p&gt;As well as my main research projects, sometimes I find myself working on other things unrelated, or only tangentially related, to the other things I do.&lt;/p&gt;&#xA;&lt;p&gt;One project of this sort was my paper with Jon Mellon about the non-representativeness of social media users, who on average are younger and better educated than non-users, and tend to be more liberal and pay more attention to politics, which you can read &lt;a href=&#34;https://doi.org/10.1177/2053168017720008&#34; target=&#34;_blank&#34;&gt; here&lt;/a&gt;.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
