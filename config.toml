@@ -1,4 +1,4 @@
-baseURL = "https://caprosser.com"
+baseURL = "https://caprosser.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Christopher Prosser"
