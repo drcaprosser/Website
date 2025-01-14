@@ -1,6 +1,6 @@
 ---
 title: "Christopher Prosser"
-subtitle: "Senior Lecturer in Politics, Royal Holloway, University of London"
+subtitle: "Royal Holloway, University of London"
 description: "I am a political scientist and data analyst based at Royal Holloway, University of London. <br><br> I use quantitative methods to answer questions about how people think about politics and behave in elections, and how this is affected by the institutional and historical context people find themselves in."
 images:
   - img/cp_gown_small.png
