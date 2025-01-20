@@ -42,7 +42,7 @@ intro: |
   
   I also sit on the Editorial Board of *Electoral Studies*. 
   
-  You can read more about other things I do [here](/otherwork/). 
+  You can read more about other things I do [here](/other/). 
    
 show_outro: false
 
