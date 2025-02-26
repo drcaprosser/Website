@@ -2,7 +2,7 @@
 title: "ITV"
 subtitle: ""
 excerpt: "Election forecasting for ITV"
-date: 2025-01-08
+date: 2025-01-10
 author: "Christopher Prosser"
 draft: false
 tags:

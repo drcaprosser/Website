@@ -2,7 +2,7 @@
 title: "Media"
 subtitle: ""
 excerpt: "TV, radio, newspaper, and podcast appearances"
-date: 2025-01-07
+date: 2025-01-09
 author: "Christopher Prosser"
 draft: false
 tags:

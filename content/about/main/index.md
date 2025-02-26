@@ -40,7 +40,7 @@ intro: |
   
   Since 2015 I have worked as a data analyst for the ITV News overnight election results programme. Since the 2016 EU referendum I have run ITV's result projection models, and since 2019 I have been part of the team that produces the joint ITV-BBC-Sky exit poll. You can read more about that [here](/other/itv/).
   
-  I also sit on the Editorial Board of *Electoral Studies*. 
+  I am also a trustee of the McDougall Trust, a charity that promotes public understanding of electoral democracy, and I sit on the Editorial Board of *Electoral Studies*. 
   
   You can read more about other things I do [here](/other/). 
    
