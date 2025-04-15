@@ -19,7 +19,7 @@ links:
 
 Like many academics, I spend some of my time reviewing submissions for academic journals, publishers, and funding bodies. I also like measuring things and keeping track of them, even if there's no point in doing so.[^1] I think it can be useful to share this sort of information -- no one really knows how much reviewing other people do, which makes it hard to know if you are doing a lot or a little of something. I have no idea if I do more or less reviewing than most people in my field -- I know some who do more, but other who do less. In any case, here is a brief record of the reviews I have done during my career. 
 
-I reviewed my first paper for a journal in 2012, and since then I have reviewed  147 submissions for 48 different journals. That works out as about 11.6 reviews per year since I started reviewing, and 16.1 per year in the last five years.  
+I reviewed my first paper for a journal in 2012, and since then I have reviewed  148 submissions for 49 different journals. That works out as about 11.5 reviews per year since I started reviewing, and 15.7 per year in the last five years.  
 
 [^1]: See also: keeping track of various metrics on my smart watch and my <a href="https://www.vivino.com/users/chris.prosser" target="_blank">700+ wine ratings on Vivino </a>. <br><br>When my eldest daughter was born I kept track of things like feeding, naps, and sleep. Once I had enough data I tried to do some analysis to see what factors led to more sleep. Unfortunately it turns out babies are entirely random processes.
 
