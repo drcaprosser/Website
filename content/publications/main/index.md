@@ -34,9 +34,9 @@ intro: |
   </div>
   </div>
   
-    ## Peer reviewed journal articles
+  ## Peer reviewed journal articles
 
- <div style="display: flex; align-items: center; gap: 20px;">
+  <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
   <p>
   <a href="https://doi.org/10.1093/pa/gsaf016" target="_blank">
@@ -52,7 +52,7 @@ intro: |
   <div class="altmetric-embed" data-badge-type="donut" data-doi="10.1093/pa/gsaf016"></div>
   </div>
   </div>
-
+ 
   <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
   <p>
