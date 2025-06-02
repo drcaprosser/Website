@@ -324,7 +324,7 @@ intro: |
   Fragmentation revisited: The UK General Election of 2024
   </a>
   <br>
-  <em>West European Politics</em>, (2024)
+  <em>West European Politics</em>, 48(6), pp. 1501-1513 (2025)
   </p>
   </div>
   <div style="flex-shrink: 0;">
@@ -339,7 +339,7 @@ intro: |
   The 2024 General Election and the Rise of Reform UK
   </a>
   <br>
-  <em>Political Quarterly</em>, (2024)
+  <em>Political Quarterly</em>, 96(1), pp.91-101 (2025)
   <br>
   With Oliver Heath, Humphrey Southall, and Paula Aucott
   </p>
