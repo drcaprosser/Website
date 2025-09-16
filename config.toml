@@ -119,6 +119,10 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/chris-prosser-4a3874305/"
   [[params.social]]
+      icon      = "github" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://github.com/drcaprosser"
+  [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fas"
       url       = "/contact/"

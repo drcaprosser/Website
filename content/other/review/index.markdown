@@ -31,7 +31,7 @@ And here are the ten journals I've reviewed for the most:
 
 <img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-3-1.png" width="672" />
 
-I've also reviewed seven book proposals for four different publishers, and seven grant proposals for four different funding bodies. 
+I've also reviewed seven book proposals for four different publishers, and eight grant proposals for four different funding bodies. 
 
 I'm almost always happy to review things if they are related to something I know about, so if you're an editor looking for someone to review something, please [get in touch](/contact/) -- especially if you work in publishing and will give me free books in return for a review. I love books.[^2]
 
