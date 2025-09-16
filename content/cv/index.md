@@ -10,8 +10,11 @@ categories:
 layout: single
 ---
 
-<object data="prosser_cv.pdf#navpanes=0" type="application/pdf" width="100%" height="600px">
-    <embed src="prosser_cv.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="prosser_cv.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<iframe
+  src="/cv/prosser_cv.pdf#toolbar=0&view=FitH"
+  title="Prosser CV"
+  style="width:100%; height:85vh; border:0;"
+  loading="lazy">
+</iframe>
+
+<p><a href="/cv/prosser_cv.pdf" target="_blank" rel="noopener">Open full-screen PDF</a></p>
