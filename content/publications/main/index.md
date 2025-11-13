@@ -60,7 +60,7 @@ intro: |
   Regularized Regression Can Reintroduce Backdoor Confounding: The Case of Mass Polarization
   </a>
   <br>
-  <em>American Political Science Review</em>, (Forthcoming)
+  <em>American Political Science Review</em>, 119(4), pp. 2002-2010 (2025)
   <br>
   With Jonathan Mellon
   </p>
@@ -77,7 +77,7 @@ intro: |
   Who lacks voter identification? The electoral implication of the Elections Act 2022
   </a>
   <br>
-  <em>Parliamentary Affairs</em>, (Forthcoming)
+  <em>Parliamentary Affairs</em>, 78(4), pp. 695-715 (2025)
   <br>
   With Ed Fieldhouse, Ralph Scott, Jack Bailey and Jonathan Mellon
   </p>
