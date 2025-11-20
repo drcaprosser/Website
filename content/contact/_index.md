@@ -6,7 +6,7 @@ description: |
 </a>
 . 
 
-  You can also find me on bluesky: [@caprosser.bsky.social](https://bsky.app/profile/caprosser.bsky.social)
+  You can also find me on bluesky: [@caprosser.com](https://bsky.app/profile/caprosser.com)
 show_header: true
 sidebar_left: true
 layout: "about"
