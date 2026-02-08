@@ -43,7 +43,7 @@ intro: |
   The Brexit realignment amid electoral volatility: The role of party blocs in the 2024 General Election
   </a>
   <br>
-  <em>Parliamentary Affairs</em>, (Forthcoming)
+  <em>Parliamentary Affairs</em>,  79(1), pp. 154-189 (2026).
   <br>
   With James Griffiths, Stuart Perrett, Ed Fieldhouse, Jane Green, Jonathan Mellon, Jack Bailey and Geoffrey Evans
   </p>
