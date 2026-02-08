@@ -6,10 +6,8 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |  
-  I am a Senior Lecturer (Associate Professor) in the department of Politics, International Relations and Philosophy at Royal Holloway, University of London. 
+  I am an Associate Professor in the department of Politics, International Relations and Philosophy at Royal Holloway, University of London. 
   
-  You can call me Chris.
-
   ## Research
 
   Most of my research relates to elections and public opinion in one way or another. 
