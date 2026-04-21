@@ -39,6 +39,18 @@ intro: |
   <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
   <p>
+  The Rise and Fall of Class Voting in Britain, 1885-2024
+  <br>
+  <em>Political Studies</em>, (forthcoming).
+  <br>
+  With Oliver Heath, Humphrey Southall and Paula Aucott
+  </p>
+  </div>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 1;">
+  <p>
   <a href="https://doi.org/10.1093/pa/gsaf016" target="_blank">
   The Brexit realignment amid electoral volatility: The role of party blocs in the 2024 General Election
   </a>
