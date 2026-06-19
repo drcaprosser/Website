@@ -18,7 +18,7 @@ intro: |
   <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
   <p><em>Electoral Realignment? How Brexit Reshaped British Voting Behaviour</em>
-  <br>Under contract with Oxford University Press. 
+  <br>Forthcoming with Oxford University Press. 
   <br>With Edward Fieldhouse, Jane Green, Geoffrey Evans, Jonathan Mellon, and Jack Bailey.</p>
   </div>
   </div>
@@ -39,12 +39,16 @@ intro: |
   <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
   <p>
-  The Rise and Fall of Class Voting in Britain, 1885-2024
+  <a href="https://doi.org/10.1177/00323217261448797" target="_blank">
+  The Rise and Fall of Class Voting in Britain, 1885-2024  </a>
   <br>
   <em>Political Studies</em>, (forthcoming).
   <br>
   With Oliver Heath, Humphrey Southall and Paula Aucott
   </p>
+  </div>
+  <div style="flex-shrink: 0;">
+  <div class="altmetric-embed" data-badge-type="donut" data-doi="10.1177/00323217261448797"></div>
   </div>
   </div>
 
