@@ -18,7 +18,7 @@ intro: |
   <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
   <p><em>Electoral Realignment? How Brexit Reshaped British Voting Behaviour</em>
-  <br>Forthcoming with Oxford University Press. 
+  <br>Oxford University Press (2027). 
   <br>With Edward Fieldhouse, Jane Green, Geoffrey Evans, Jonathan Mellon, and Jack Bailey.</p>
   </div>
   </div>
