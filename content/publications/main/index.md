@@ -15,9 +15,11 @@ intro: |
   
   ## Books
   
+  
+  
   <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
-  <p><em>Electoral Realignment? How Brexit Reshaped British Voting Behaviour</em>
+  <p><a href="https://global.oup.com/academic/product/electoral-realignment-9780192883445" target="_blank"><em>Electoral Realignment? How Brexit Reshaped British Voting Behaviour</em></a>
   <br>Oxford University Press (2027). 
   <br>With Edward Fieldhouse, Jane Green, Geoffrey Evans, Jonathan Mellon, and Jack Bailey.</p>
   </div>
